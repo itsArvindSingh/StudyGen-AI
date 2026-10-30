@@ -1,0 +1,6 @@
+{
+  "name": "StudyGen AI",
+  "description": "AI Study Notes Generator that converts text, textbooks, or lecture transcripts into structured summaries, key points, practice questions, and simplified concepts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
